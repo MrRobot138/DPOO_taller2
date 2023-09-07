@@ -1,0 +1,7 @@
+coca Cola;2500;1000
+Ginger Ale;3500;2000
+Jugo Hit;4000;3000
+agua maniantal;1500;4000
+manzana postobon;3000;5000
+uva postobon;3000;6000
+colombiana;2800;7000
